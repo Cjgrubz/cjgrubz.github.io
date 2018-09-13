@@ -43,8 +43,9 @@
     #footer{
         background-color: chocolate;
         border: black;
+        font-size: 25px;
     }
 
     #footer img{
-        align-content: center;
+        align-items: center;
     }
