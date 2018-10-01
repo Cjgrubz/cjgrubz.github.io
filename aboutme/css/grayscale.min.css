@@ -10,8 +10,33 @@
 
     #navbar li{
         display: inline;
-        padding: 50px;
+        padding: 30px;
         align-content: center;
+    }
+
+    #h1 {
+        text-align: center;
+    }
+
+    .p-box{
+        align-items: stretch
+        width: 800px;
+        height: 900px;
+        border: 1px solid #000;
+        margin-top: 30px;
+        position: relative;
+        background-image:url('../css/img/dumbo.JPG');
+        background-repeat: no-repeat; 
+         
+        
+    }
+
+    .p-box h1{
+        text-align: center;
+        }
+
+    .container h1{
+        text-align: center;
     }
 
     .block {
