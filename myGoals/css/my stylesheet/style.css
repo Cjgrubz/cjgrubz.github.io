@@ -1,0 +1,51 @@
+    #main-header{
+    background-color: chocolate;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    line-height: 1.6em;
+    margin: 0;
+    }
+
+    #main-header h1{
+        padding-top: 15px;
+        color: blue;
+        text-align: center;
+    }
+
+    #main-header h2{
+        padding-bottom: 15px;
+        color: red;
+        text-align: center;
+    }
+
+    #navbar{
+        background-color: #333;
+        color: #fff;
+    }
+    
+    #navbar ul{
+        padding: 0;
+        list-style: none;
+    }
+    
+    #navbar li{
+        display: inline;
+    }
+    
+    #navbar a{
+        color: #fff;
+        text-decoration: none;
+        font-size: 18px;
+        padding-right: 15px;
+    }
+
+    #footer{
+        background-color: chocolate;
+        border: black;
+        font-size: 25px;
+    }
+
+    #footer img{
+        align-items: center;
+    }
